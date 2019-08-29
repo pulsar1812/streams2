@@ -3,13 +3,13 @@
     {
       "title": "My Stream 1",
       "description": "This is my stream 1",
-      "userId": "109860935438481615879",
+      "userId": "",
       "id": 1
     },
     {
       "title": "My Stream 2",
       "description": "This is my stream 2",
-      "userId": "109860935438481615879",
+      "userId": "",
       "id": 2
     }
   ]
